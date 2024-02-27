@@ -49,9 +49,16 @@ INSTALLING ACTIVIVE DIRIECTORY ON DC-1 MICROSOFT AZURE VIRTUAL MACHINE
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/bef5fed6-a4b8-4aac-afa6-e6a1004843ae)
 
-CREATE AN ADMIN AND NORMAL USER ACCOUNT IN AD
-
+CREATE ORGANIZATIONAL UNITS EMPLOYEES AND ADMINS
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/424b7515-71f6-4659-87e8-c0516ac7de0a)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/7fd87cae-724e-4c8f-aa2f-51e4622f330f)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/2ab84712-c04a-4574-8d0b-71ff622a1fba)
+
+
+
+
 
 
 
