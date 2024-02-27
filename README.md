@@ -35,6 +35,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 MICROSOFT AZURE VIRTUAL MACHINES DC-1 SERVER. CLIENT-1 WINDOWS 10 SETUP/SETTINGS 
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/5450c185-028d-4d7c-b888-0aed8ef96f9d)
+
+
 
 
 
