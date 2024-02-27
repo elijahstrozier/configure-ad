@@ -37,6 +37,25 @@ MICROSOFT AZURE VIRTUAL MACHINES DC-1 SERVER. CLIENT-1 WINDOWS 10 SETUP/SETTINGS
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/5450c185-028d-4d7c-b888-0aed8ef96f9d)
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/10fc8857-7dbb-47d4-a4de-0bc2c7de10a5)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/4e0c9cff-6e72-43e5-a9fe-827bb13f069d)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/0be25e9f-70a2-41a9-a7cd-2b4b37924087)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/5b4774d0-e5ac-40c1-8f67-d28725ed8576)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/61776f54-a803-4a2e-b067-b784e4d89af1)
+
+
+
+
+
+
+
+
+
+
 
 
 
