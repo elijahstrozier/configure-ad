@@ -56,6 +56,13 @@ CREATE ORGANIZATIONAL UNITS EMPLOYEES AND ADMINS
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/2ab84712-c04a-4574-8d0b-71ff622a1fba)
 
+CREATING A NEW EMPLOYEE NAMED JANE DOE> ADDING JANE TO DOMAIN ADMINS SECURITY GROUP
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/73565626-e45b-4861-8842-3dc1bb52d9e4)
+
+
+
+
 
 
 
