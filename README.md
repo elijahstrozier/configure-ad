@@ -37,5 +37,22 @@ INSTALLING ACTIVIVE DIRIECTORY ON DC-1 MICROSOFT AZURE VIRTUAL MACHINE
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/f94e773e-dee6-4431-b6c5-3e32429deb31)
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/064960d6-07db-4ba1-b5c3-33549ff7b926)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/afb7aacb-77af-466b-91dd-78a676e9308a)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/791ae9fa-4143-4dce-84e1-ed30ea59932c)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/c70ad696-9188-462d-b049-81fb3cf77e67)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/dc9452c8-fb02-48f2-b628-0a74a46d6f3d)
+
+
+
+
+
+
+
+
 
 
