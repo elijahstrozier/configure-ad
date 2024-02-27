@@ -35,4 +35,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 INSTALLING ACTIVIVE DIRIECTORY ON DC-1 MICROSOFT AZURE VIRTUAL MACHINE 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/4e43ef2e-af7a-4728-8390-13de159a4176)
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/f94e773e-dee6-4431-b6c5-3e32429deb31)
+
+
 
