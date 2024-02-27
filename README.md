@@ -71,6 +71,9 @@ LOGGED IN AS ONE OF THE GENERATED USERS ON WINDOWS 10 AZURE VIRTUAL MACHINE
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/4027a1b8-0aef-4e3d-9018-27f7fde76a06)
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/aef84b84-2086-4fcd-b136-65a9ff0d80b4)
+
+
 
 
 
