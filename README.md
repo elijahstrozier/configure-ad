@@ -49,6 +49,21 @@ MICROSOFT AZURE VIRTUAL MACHINES DC-1 SERVER. CLIENT-1 WINDOWS 10 SETUP/SETTINGS
 
 INSTALLED ACTIVIVE DIRIECTORY ON DC-1 MICROSOFT AZURE VIRTUAL MACHINE
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/d3700e3f-65d0-4395-aa43-b964ede34c6b)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/dd2ed462-c01f-4893-9e77-91482445b367)
+
+CREATED AN ADMIN USER ON WINDOWS SERVER AZURE VIRTUAL MACHINE / LOGGED IN AS THE ADMIN
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/e297c24f-1983-4986-84cb-94fb1d7cfe4f)
+
+
+
+
+
+
+
+
 
 
 
