@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - INSTALLING ACTIVE DIRECTORY 
-- Step 2
+- CREATE AN ADMIN AND NORMAL USER ACCOUNT IN AD
 - Step 3
 - Step 4
 
@@ -46,6 +46,19 @@ INSTALLING ACTIVIVE DIRIECTORY ON DC-1 MICROSOFT AZURE VIRTUAL MACHINE
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/c70ad696-9188-462d-b049-81fb3cf77e67)
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/dc9452c8-fb02-48f2-b628-0a74a46d6f3d)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/bef5fed6-a4b8-4aac-afa6-e6a1004843ae)
+
+CREATE AN ADMIN AND NORMAL USER ACCOUNT IN AD
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/424b7515-71f6-4659-87e8-c0516ac7de0a)
+
+
+
+
+
+
+
 
 
 
