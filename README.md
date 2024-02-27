@@ -57,6 +57,12 @@ CREATED AN ADMIN USER ON WINDOWS SERVER AZURE VIRTUAL MACHINE / LOGGED IN AS THE
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/e297c24f-1983-4986-84cb-94fb1d7cfe4f)
 
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/8bad3e3c-3651-4ddb-b157-1992d61b8ab3)
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/88ed085a-ffb7-403a-b540-9e7e19b7e2b9)
+
+
+
 
 
 
