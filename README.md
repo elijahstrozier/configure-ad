@@ -65,9 +65,12 @@ GENERATED USERS W/POWERSHELL ISE WINDOWS SERVER
 
 ![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/977d0fb5-c4a2-491d-8e13-e4759c4828c3)
 
-![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/56b4fe1c-84a3-4619-9f9b-d6a7d79e3c77)
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/43959412-880a-4cdb-92d8-0240b63d2638)
 
 LOGGED IN AS ONE OF THE GENERATED USERS ON WINDOWS 10 AZURE VIRTUAL MACHINE
+
+![image](https://github.com/elijahstrozier/configure-ad/assets/161254320/4027a1b8-0aef-4e3d-9018-27f7fde76a06)
+
 
 
 
